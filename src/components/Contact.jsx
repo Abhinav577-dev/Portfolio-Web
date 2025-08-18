@@ -11,19 +11,19 @@ export default function Contact(){
             <div className="col-md-6">
               <div className="d-flex align-items-center gap-3">
                 <i className="bi bi-envelope fs-4"></i>
-                <a className="link-light" href="mailto:your.email@example.com">your.email@example.com</a>
+                <a className="link-light" href="mailto:your.email@example.com">abhinavkamble496@gmail.com</a>
               </div>
             </div>
             <div className="col-md-6">
               <div className="d-flex align-items-center gap-3">
                 <i className="bi bi-github fs-4"></i>
-                <a className="link-light" href="https://github.com/yourusername" target="_blank" rel="noreferrer">github.com/yourusername</a>
+                <a className="link-light" href="https://github.com/yourusername" target="_blank" rel="noreferrer">github.com/Abhinav577-dev</a>
               </div>
             </div>
             <div className="col-md-6">
               <div className="d-flex align-items-center gap-3">
                 <i className="bi bi-linkedin fs-4"></i>
-                <a className="link-light" href="https://www.linkedin.com/in/yourhandle" target="_blank" rel="noreferrer">linkedin.com/in/yourhandle</a>
+                <a className="link-light" href="https://www.linkedin.com/in/yourhandle" target="_blank" rel="noreferrer">linkedin.com/in/abhishek-k-447242296/</a>
               </div>
             </div>
           </div>

@@ -16,7 +16,7 @@ export default function App(){
       <About />
       <Contact />
       <footer className="py-4 text-center text-secondary">
-        <small>© {new Date().getFullYear()} Abhinav. Built with React + Vite.</small>
+        <small>© {new Date().getFullYear()} Abhishek. Build with react</small>
       </footer>
     </>
   )

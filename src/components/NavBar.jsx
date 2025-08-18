@@ -5,7 +5,7 @@ export default function NavBar(){
     <nav className="navbar navbar-dark navbar-expand-lg bg-transparent sticky-top">
       <div className="container py-2">
         <a className="navbar-brand fw-bold" href="#home">
-          <span className="accent">A</span>bhinav
+          <span className="accent">A</span>bhishek K.
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample07" aria-controls="navbarsExample07" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>

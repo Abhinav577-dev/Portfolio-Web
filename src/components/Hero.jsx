@@ -11,7 +11,7 @@ export default function Hero(){
                 <i className="bi bi-code-slash"></i>
                 Open to Internships
               </div>
-              <h1 className="display-5 fw-bold lh-1 mb-3">Hi, I'm <span className="accent">Abhinav</span> — Developer & Problem Solver</h1>
+              <h1 className="display-5 fw-bold lh-1 mb-3">Hi, I'm <span className="accent">Abhishek</span> — Developer & Problem Solver</h1>
               <p className="lead text-secondary">I build clean, fast web apps with React and craft intelligent solutions with Python & ML. Check out my projects below.</p>
               <div className="d-flex gap-2 flex-wrap">
                 <a className="btn btn-light" href="#projects"><i className="bi bi-rocket-takeoff me-2"></i>See Projects</a>
@@ -27,9 +27,11 @@ export default function Hero(){
                   <i className="bi bi-person-circle" style={{fontSize: '5rem'}}></i>
                 </div>
                 <div className="d-flex gap-2 justify-content-center flex-wrap">
-                  <span className="tag"><i className="bi bi-award"></i> C++ / Java</span>
+                  <span className="tag"><i className="bi bi-award"></i> C / C++ / Java</span>
+                  <span className="tag"><i className="bi bi-award"></i> DSA</span>
                   <span className="tag"><i className="bi bi-cpu"></i> ML / Python</span>
                   <span className="tag"><i className="bi bi-window"></i> React</span>
+                  <span className="tag"><i className="bi bi-window"></i> Linux</span>
                 </div>
               </div>
             </div>
